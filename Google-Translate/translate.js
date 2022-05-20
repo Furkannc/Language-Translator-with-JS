@@ -11,7 +11,7 @@ class Translate{
 		'content-type': 'application/x-www-form-urlencoded',
 		'Accept-Encoding': 'application/gzip',
 		'X-RapidAPI-Host': 'google-translate1.p.rapidapi.com',
-		'X-RapidAPI-Key': 'c84c18dd54msh51c09b1eed0713bp19e4f6jsnae78ea34f7ce'
+		'X-RapidAPI-Key': 'YOUR_API_KEY'
 	    },
 	    body: encodedParams
         };
